@@ -1,0 +1,21 @@
+1//
+NoSQL database technology is a database type that stores information in JSON documents instead of columns and rows used by relational databases. 
+2//
+NoSQL databases are built to be flexible, scalable, Zero Downtime, and capable of rapidly responding 
+3//
+ the four main types of NoSQL databases:
+Document databases.
+Key-value stores.
+Column-oriented databases.
+Graph databases.
+4//
+The presence of four components — atomicity, consistency, isolation and durability — can ensure that a database transaction is completed in a timely manner. When databases possess these components, they are said to be ACID-compliant
+5//
+The CAP theorem (also called Brewer's theorem) states that a distributed database system can only guarantee two out of these three characteristics: Consistency, Availability, and Partition Tolerance.
+6//
+Advantages of NoSQL Databases
+Handle large volumes of data at high speed with a scale-out architecture.
+Store unstuctured, semi-structured, or structured data.
+Enable easy updates to schemas and fields.
+Be developer-friendly.
+Take full advantage of the cloud to deliver zero downtime.
